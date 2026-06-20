@@ -1,8 +1,5 @@
-/**
- * Database connection configuration placeholder
- * In a production app, you would use mongoose or sequelize here.
- */
 
+//Database connection configuration placeholder
 const connectDB = async () => {
   try {
     // Simulated connection logic
